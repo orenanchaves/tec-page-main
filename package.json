@@ -1,0 +1,47 @@
+{
+  "name": "tc-webapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=16.15.1",
+    "npm": ">=8.11.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview --port 8080",
+    "lint": "eslint --ext .ts, .tsx src"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.0",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.36.1",
+    "react-hot-toast": "^2.4.0",
+    "swiper": "^8.4.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@iconify-icon/react": "^1.0.0",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/uuid": "^8.3.4",
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1",
+    "@vitejs/plugin-react": "^2.1.0",
+    "autoprefixer": "^10.4.12",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.16",
+    "prettier": "^2.7.1",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}

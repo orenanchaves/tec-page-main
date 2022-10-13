@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.223" height="41.528" viewBox="0 0 56.223 41.528">
+  <g id="truck" transform="translate(-148.551 -4105.411)">
+    <circle id="truck-04" cx="5.405" cy="5.405" r="5.405" transform="translate(158.644 4134.629)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle id="truck-03" cx="5.405" cy="5.405" r="5.405" transform="translate(186.085 4134.629)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="truck-02" d="M10.316,38.262H4.772V27.175M2,5H32.49V38.262m-11.087,0H38.034m11.087,0h5.544V21.631H32.49m0-13.859H46.349l8.316,13.859" transform="translate(148.051 4101.911)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="truck-01" x2="10.81" transform="translate(152.823 4117.999)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

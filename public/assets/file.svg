@@ -1,0 +1,8 @@
+<svg id="icon-document" xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <path id="icon-document-06" d="M0,0H160V160H0Z" fill="none"/>
+  <path id="icon-document-05" d="M58.889,1.667H14.444A11.111,11.111,0,0,0,3.333,12.778v88.889a11.111,11.111,0,0,0,11.111,11.111H81.111a11.111,11.111,0,0,0,11.111-11.111V35Z" transform="translate(33.57 22.778)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path id="icon-document-04" d="M11.667,1.667V35H45" transform="translate(80.792 22.778)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path id="icon-document-03" d="M51.111,10.833H6.667" transform="translate(52.459 74.722)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path id="icon-document-02" d="M51.111,14.167H6.667" transform="translate(52.459 93.611)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path id="icon-document-01" d="M17.778,7.5H6.667" transform="translate(52.459 55.833)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+</svg>

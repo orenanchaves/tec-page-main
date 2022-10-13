@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'OkineSans';
+  src: local('OkineSans'), url('../fonts/OkineSans-bold.otf') format('truetype');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'OkineSans';
+  src: local('OkineSans'),
+    url('../fonts/OkineSans-regular.otf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'OkineSans';
+  src: local('OkineSans'),
+    url('../fonts/OkineSans-light.otf') format('truetype');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'OkineSans';
+  src: local('OkineSans'),
+    url('../fonts/OkineSans-medium.otf') format('truetype');
+  font-weight: 600;
+}
+
+body {
+  @apply bg-neutral-50;
+}
+body,
+html {
+  @apply scroll-smooth scrollbar-thin scrollbar-track-zinc-200 scrollbar-thumb-zinc-600/20;
+}
+
+.polygon {
+  clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
+}
