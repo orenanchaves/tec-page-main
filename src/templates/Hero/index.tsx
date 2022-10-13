@@ -44,7 +44,7 @@ export const Hero: React.FC = () => {
         className={`absolute -left-[350px] h-[700px] w-[700px] bottom-[10px] hidden invisible md:visible md:flex z-1`}
       /> */}
       <div
-        className={`absolute top-[33,33%] bottom-[20%] left-[8.1%] right-[0]`}
+        className={`absolute top-[33,33%] bottom-[33,3%] left-[8.1%] right-[0]`}
       >
         <HeroTitle title='Entrega' append />
         <HeroTitle title='Reversa' append />
